@@ -1,2 +1,1 @@
-# PrepCourseHenryFinal
-Repositorio creado durante el modulo 2 del prep course de Henry
+Este proyecto es una prueba para crear un repositorioi y clonarlo desde github a mi PC
